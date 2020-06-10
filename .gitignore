@@ -1,3 +1,4 @@
+.gitignore
 # Distribution / packaging
 .Python
 build/
